@@ -1,0 +1,13 @@
+table{
+    display: block;
+    margin: auto;
+    border: 2px solid red;
+    margin-top: 200px;
+    margin-left: 140px;
+}
+td,th{
+    border: 2px solid red;
+}
+caption{
+    font-size: 30px;
+}

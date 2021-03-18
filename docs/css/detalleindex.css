@@ -1,0 +1,44 @@
+
+fieldset{
+    display: block;
+    height: 100px;
+    width: 500px;
+    margin-left: 200px;
+    text-align: center;
+    border-color:crimson;
+    border-radius: 10px;
+    color: black;
+}
+a{
+    background-color: blueviolet;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+}
+.Punto1,.Punto2,.Punto3,.Punto4,.Punto5,.Punto6,.Punto7,.Punto8,.Punto9,.Punto10,.Punto11{
+    display: inline-block;
+    height: 50px;
+    width: 900px;
+    padding: 0%;
+}
+.Punto2{
+    margin-left: 500px;
+}
+.Punto4{
+    margin-left: 500px;
+}
+.Punto5{
+    margin-left: 500px;
+}
+.Punto7{
+    margin-left: 500px;
+}
+.Punto8{
+    width: 1000px;
+}
+.Punto9{
+    margin-left: 500px;
+}
+.Punto11{
+    margin-left: 500px;
+}
